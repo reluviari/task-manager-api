@@ -44,8 +44,7 @@ group :development do
   gem 'spring', '2.0.1'
   gem 'spring-watcher-listen', '2.0.1'
   gem 'spring-commands-rspec', '1.0.4'
-  # Use mysql as the database for Active Record
-  gem 'mysql2', '0.4.5'
+  gem 'pg'
 end
 
 group :production do
