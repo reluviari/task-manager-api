@@ -1,24 +1,12 @@
-# README
+<h1 align="center">
+  <strong>Task Manager React - Backend</strong>
+</h1> 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p align="center">
+  API RAILS 5 - Integrating RAILS API with REACT CLIENT
+</p> 
 
-Things you may want to cover:
+## 📌 Link to Course
 
-* Ruby version
+You can visit the app by clicking this link: [Access App](https://www.udemy.com/course/rails-angular-nativescript-apis-e-apicativos-android-ios-e-web/).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
